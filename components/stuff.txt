@@ -1,0 +1,10 @@
+api.title = "DropIn"
+api.markerNames = ["Green Mountain Rec Center",
+"South Simms Street Park", "Coyote Gulch Park", "Green Mountain High School",
+"Union Square Park", "Random Place"]
+api.markerSports = ["Basketball", "Tennis", "Baseball", "Soccer", "Volleyball", "Football"]
+api.markerTimes = ["12PM-2PM", "5PM-7PM", "4:30PM-6:30PM", "3PM-5PM", "9AM-11AM", "3PM-5PM"]
+api.attending = [2, 4, 8, 9, 11, 0]
+api.playing = [0, 0, 3, 9, 10, 0]
+api.type = ["Paid/Membership", "Free", "Free", "Free", "Free", "Paid"]
+api.cost = ["$4/Membership", "Free", "Free", "Free", "Free", "$10"]

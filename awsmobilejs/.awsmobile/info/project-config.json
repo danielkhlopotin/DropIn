@@ -1,0 +1,6 @@
+{
+	"SourceDir": "DropIn",
+	"DistributionDir": "DropIn/DropIn-Icons-And-Files",
+	"BuildCommand": "npm.cmd run-script build",
+	"StartCommand": "npm run"
+}
